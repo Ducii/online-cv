@@ -62,7 +62,7 @@ studies:
 
     - education:
       degree: .Net Course 
-      university: NiCAT Cluster (Pre - Qualification Course organised by the Goverment of Republic of Serbia)
+      university: NiCAT Cluster (Pre - Qualification Course organized by the Goverment of Republic of Serbia)
       time: 2017 - 2018
       details: "Pre - Qualification Course organised by the Goverment of Republic of Serbia"
 
@@ -74,7 +74,7 @@ projects:
     
     projects:
       - project:
-        title: Velocity
+        title: Fifa2018 WorldCup WebSite (In Progres)
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
       - project:
