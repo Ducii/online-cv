@@ -37,7 +37,7 @@ sidebar:
           item: Aquaristics
           link:
         - interest:
-          item: Cooking
+          item: PC Games
           link:
 
         
@@ -46,8 +46,8 @@ sidebar:
 
 
 career-profile: 
-    title: Career Profile
-    text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+    title: PROFILE
+    text: 'I was born in 1990 in Nis in Serbia.I finished High School "Bora Stanković" (Natural Sciences and Mathematics Department) and Faculty of Economics (Business menagement - Enterprise Management).'
 
 
 studies: 
