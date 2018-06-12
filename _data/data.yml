@@ -113,8 +113,8 @@ skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python & Django
-          level: 20%
+          name: SQL
+          level: 55%
         - skill:
           name: Javascript & jQuery
           level: 66%
@@ -125,8 +125,8 @@ skills:
           name: HTML5 & CSS
           level: 60%
         - skill:
-          name: Ruby on Rails
-          level: 33%
+          name: C/C++
+          level: 70%
         - skill:
           name: Sketch & Photoshop
           level: 60%
