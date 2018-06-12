@@ -113,10 +113,10 @@ skills:
     skills:
         - skill:
           name: Python & Django
-          level: 33%
+          level: 20%
         - skill:
           name: Javascript & jQuery
-          level: 98%
+          level: 66%
         - skill:
           name: Adobe Illustrator
           level: 98%
